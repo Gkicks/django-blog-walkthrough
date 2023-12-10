@@ -32,7 +32,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-gkicks-django-blog-walkt-e0qvrmj2kg.us2.codeanyapp.com',
-                 'django-blog-walkthough-gail.heroku.com', 'localhost']
+                 'django-blog-walkthough-gail.heroku.com', 'localhost',
+                 'django-blog-walkthrough-gail-6c4e3f92cd0c.herokuapp.com']
 
 
 # Application definition
